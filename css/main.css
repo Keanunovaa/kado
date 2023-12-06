@@ -672,7 +672,7 @@ body {
 .flower__g-front__line {
   width: 0.3vmin;
   height: 20vmin;
-  background-image: linear-gradient(to top, transparent, #079097, transparent 100%);
+  background-image: linear-gradient(to top, transparent, #97076c, transparent 100%);
   position: relative;
 }
 .flower__g-front__leaf-wrapper {
